@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Replace with the actual Web OAuth client ID -->
+    <string name="default_web_client_id">581116190947-fo31odn3mlm20dbh4bfd8apm8sp705qg.apps.googleusercontent.com</string>
+</resources>
